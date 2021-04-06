@@ -1,5 +1,3 @@
-
-
 # Lab 8-401 course auth-api
 
 ## links:
